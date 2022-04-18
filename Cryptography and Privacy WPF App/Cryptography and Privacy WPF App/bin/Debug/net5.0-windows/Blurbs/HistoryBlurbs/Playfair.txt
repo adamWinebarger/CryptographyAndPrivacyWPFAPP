@@ -1,0 +1,7 @@
+Invented by Charles Wheatstone in 1854, the plairfai cipher was revloutionary in  that it used bigrams, a block of sorts" to encrypt/swap pairs of letters. This systsem was revolutionary as it was both simpler and more effective than the Vigenere cipher that was commonly used at the time.
+
+While frequency analysis was a common tactic for decrypting simple substitution ciphers, it was an ineffective means for decrypting as the act of encrypting letters in pairs meant that the same letter might not necessarily be decrypted to the same thing.
+
+For example, in the image below, HI would encrypt to BM. But HE in the same square would encrypt to DM. This method is quite effective for masking the frequency of common letters within an encrypted message. 
+
+While originally invented in 1854, this was a very effective and common means for sending secure traffic even as late as WWII because encrypting and decrypting could be done quickly and efficiently in the field, and without special equipment. 

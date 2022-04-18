@@ -1,0 +1,16 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.LTOMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="LTOMenu" Height="450" Width="800">
+    <Grid>
+        <Label Content="Learning Targets Menu" HorizontalAlignment="Center" Margin="0,69,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:Name="asButton" Content="Arithmatic Skills" HorizontalAlignment="Center" Margin="0,177,0,0" VerticalAlignment="Top" Height="40" Width="330" Click="asButton_Click"/>
+        <Button x:Name="enButton" Content="Encryption/Decryption" HorizontalAlignment="Center" Margin="0,249,0,0" VerticalAlignment="Top" Height="40" Width="330" Click="enButton_Click"/>
+        <Button x:Name="ctButton" Content="Critical Thinking" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" Height="40" Width="330" Click="ctButton_Click"/>
+
+    </Grid>
+</Window>

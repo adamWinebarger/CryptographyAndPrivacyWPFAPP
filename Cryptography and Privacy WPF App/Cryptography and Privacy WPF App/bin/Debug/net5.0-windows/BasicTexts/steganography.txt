@@ -1,0 +1,5 @@
+Also known as cover-writing, steganography is the art of hiding messages in plain sight. In contrast to cryptography, steganography does not modify the structure of the original message, but rather looks to "mask" the contents of the message.
+
+Some examples of this include using invisible ink, hiding messages in code in the pixels of an image, or covering a wooden tablet with wax to mask a message (although that last one isn't super common these days. lol)
+
+This... isn't super relevent to the topic of cryptography, but I found it interesting. So it got it's own little blurb.

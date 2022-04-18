@@ -1,0 +1,14 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.ExtrasWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="ExtrasWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Extra Things" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="aesTexterButton" Content="Messaging With AES" HorizontalAlignment="Left" Margin="45,154,0,0" VerticalAlignment="Top" Height="36" Width="152" Click="aesTexterButton_Click"/>
+
+    </Grid>
+</Window>

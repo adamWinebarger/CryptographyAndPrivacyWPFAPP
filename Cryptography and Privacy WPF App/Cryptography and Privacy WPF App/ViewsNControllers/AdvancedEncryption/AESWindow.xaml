@@ -1,0 +1,33 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.AESWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="AESWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="AES" HorizontalAlignment="Left" Margin="134,40,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Input String" HorizontalAlignment="Left" Margin="40,135,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="inputStringTextBox" HorizontalAlignment="Left" Margin="40,166,0,0" Text="Sample" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" Height="17"/>
+        <Label Content="Key:" HorizontalAlignment="Left" Margin="40,239,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="keyTextBox" HorizontalAlignment="Left" Margin="40,265,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" Height="17"/>
+        <TextBlock x:Name="littleBlurbTextBlock" HorizontalAlignment="Left" Margin="439,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="195" Width="335">
+            <TextBlock.Inlines>
+                The advanced encryption Standard - also known as Rijndael is a specification for the encryption for encryption of electronic data by the U.S. National Institute of Standards and Technology. This is one of the first modern, strong encryption methodologies that is covered in this program (assuming you looked at these in the order I wanted you to).
+                <LineBreak></LineBreak>
+                <LineBreak></LineBreak>
+                <Run FontWeight="Black" Text="Disclaimer:"/>
+                This is a fairly advanced, fairly modern cipher with some specific key requirements and I would
+                <Run FontWeight="Bold" Text="strongly"/>
+                recommend using an online key-generator to creat an encryption/decryption key when you run this portion of the program.
+            </TextBlock.Inlines>
+
+        </TextBlock>
+        <Button x:Name="encryptButton" Content="Encrypt" HorizontalAlignment="Left" Margin="564,249,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="encryptButton_Click"/>
+        <Button x:Name="decryptButton" Content="Decrypt" HorizontalAlignment="Left" Margin="564,303,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="decryptButton_Click"/>
+        <Button x:Name="copyButton" Content="Copy to Clipboard" HorizontalAlignment="Left" Margin="564,359,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="copyButton_Click"/>
+        <TextBlock x:Name="outputTextBlock" HorizontalAlignment="Left" Margin="56,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="81" Width="246"/>
+
+    </Grid>
+</Window>

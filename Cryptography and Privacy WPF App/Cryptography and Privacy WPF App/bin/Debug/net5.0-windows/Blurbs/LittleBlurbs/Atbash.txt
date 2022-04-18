@@ -1,0 +1,1 @@
+Atbash is another simple monoalphatetic simple substitution cipher (meaning each letter maps to a single "swapped" letter). While it was originally designed for the hebrew alphabet, it can be used for any form of written language. Altough it's fairly simple compared to modern encryption algorithms, it laid the groundwork for many cryptographic advancces to come. 

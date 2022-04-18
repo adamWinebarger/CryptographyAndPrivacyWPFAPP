@@ -1,0 +1,20 @@
+﻿Cryptography and Privacy WPF App
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\adamk\source\repos\Cryptography and Privacy WPF App\Cryptography and Privacy WPF App\obj\Debug\net5.0-windows\
+Cryptography_and_Privacy_WPF_App
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\adamk\source\repos\Cryptography and Privacy WPF App\Cryptography and Privacy WPF App\App.xaml
+271671394111
+
+52-1234928052
+193-1891726104
+MainWindow.xaml;ViewsNControllers\AdvancedEncryption\ADFGVXWindow.xaml;ViewsNControllers\AdvancedEncryption\AESWindow.xaml;ViewsNControllers\AdvancedEncryption\HillCipherWindow.xaml;ViewsNControllers\Basic Encryption\AffineCipherWindow.xaml;ViewsNControllers\Basic Encryption\AtbashWindow.xaml;ViewsNControllers\Basic Encryption\CaesarCipherWindow.xaml;ViewsNControllers\Basic Encryption\ColumnarTranspositionWindow.xaml;ViewsNControllers\Basic Encryption\RailFenceWindow.xaml;ViewsNControllers\Basic Encryption\VigenerWindow.xaml;ViewsNControllers\BigBlurbWindow.xaml;ViewsNControllers\ExtraThings\AESChatWindow.xaml;ViewsNControllers\HistoryThings\BabbageWindwo.xaml;ViewsNControllers\HistoryThings\EnigmaCoolFactsWindoow.xaml;ViewsNControllers\HistoryThings\MLKWindow.xaml;ViewsNControllers\HistoryThings\NapoleonWindow.xaml;ViewsNControllers\HistoryThings\PlayfairCoolFactsWindow.xaml;ViewsNControllers\Learning Targets\AS\ASMenu.xaml;ViewsNControllers\Learning Targets\AS\Learning Targets\AS1Window.xaml;ViewsNControllers\Learning Targets\CT\CTMenu.xaml;ViewsNControllers\Learning Targets\EN\ENMenu.xaml;ViewsNControllers\SubMenus\AdvancedEncryptionMenu.xaml;ViewsNControllers\SubMenus\BasicEncryptionMenu.xaml;ViewsNControllers\SubMenus\BasicsMenu.xaml;ViewsNControllers\SubMenus\ExtrasWindow.xaml;ViewsNControllers\SubMenus\HistoryAndFunFactsWindow.xaml;ViewsNControllers\SubMenus\LTOMenu.xaml;
+
+True
+

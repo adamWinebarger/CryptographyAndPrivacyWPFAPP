@@ -1,0 +1,18 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.AS1Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="AS1Window" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,39,0,0" Text="AS1: I can do basic arithmatic involved with factoring and primality. Specifically, I can: find the quotient and remainder obtained when dividing two integers; determine whether an integer (less than 1000) is prime; and express an integer using its prime factorization." TextWrapping="Wrap" VerticalAlignment="Top" Height="69" Width="693" FontSize="14"/>
+        <TextBox x:Name="input1TextBox" HorizontalAlignment="Left" Margin="77,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="input1TextBox_TextChanged"/>
+        <Label Content="Input 1:" HorizontalAlignment="Left" Margin="77,168,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="input2TextBox" HorizontalAlignment="Left" Margin="520,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="input2TextBox_TextChanged"/>
+        <Label Content="Input 2:" HorizontalAlignment="Left" Margin="520,168,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="checkPrimeButton" Content="Check if prime (Input 1 only)" HorizontalAlignment="Left" Margin="54,257,0,0" VerticalAlignment="Top" Height="30" Width="174" Click="checkPrimeButton_Click"/>
+
+    </Grid>
+</Window>

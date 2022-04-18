@@ -1,0 +1,18 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.AdvancedEncryptionMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="AdvancedEncryptionMenu" Height="450" Width="800">
+    <Grid>
+        <Label Content="Some more advanced encryption schemes" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="aesButton" Content="AES Encryption" HorizontalAlignment="Left" Margin="59,129,0,0" VerticalAlignment="Top" Height="46" Width="110" Click="aesButton_Click"/>
+        <Button x:Name="adfgvxButton" Content="ADFGVX" HorizontalAlignment="Left" Margin="59,217,0,0" VerticalAlignment="Top" Height="36" Width="110" Click="adfgvxButton_Click"/>
+        <Button x:Name="rsaButton" Content="RSA" HorizontalAlignment="Left" Margin="59,293,0,0" VerticalAlignment="Top" Height="43" Width="110"/>
+        <Button x:Name="hillCipherButton" Content="Hill Cipher" HorizontalAlignment="Left" Margin="500,129,0,0" VerticalAlignment="Top" Height="43" Width="107" Click="hillCipherButton_Click"/>
+        <Button x:Name="enigmaButton" Content="Enigma Virtual Machine" HorizontalAlignment="Left" Margin="500,217,0,0" VerticalAlignment="Top" Height="36" Width="160"/>
+
+    </Grid>
+</Window>

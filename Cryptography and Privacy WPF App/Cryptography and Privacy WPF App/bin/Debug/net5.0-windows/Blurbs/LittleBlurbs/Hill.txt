@@ -1,0 +1,1 @@
+The hill cipher is a polygrpahic substitution cipher that makes use of matrices and linear algebra to encrypt messages. Frankly, I'm still a little shaky on how to operate this programmatically. 

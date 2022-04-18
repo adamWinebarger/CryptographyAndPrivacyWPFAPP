@@ -1,0 +1,1 @@
+The rail fence cipher is a classical type of transposition cipher that involves loading plaintext into a multi-row "zig-zag" pattern and reading the output. Unlike a substitution cipher, transposition ciphers like this maintain all of the original values of the plaintext, making them somewhat susceptible to cracking. 

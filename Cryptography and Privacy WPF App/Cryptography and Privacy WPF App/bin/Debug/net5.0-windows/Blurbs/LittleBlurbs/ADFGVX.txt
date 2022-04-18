@@ -1,0 +1,3 @@
+The ADFGVX cipher was a manually applied cipher used by the German Army in WWI. This was a fractioning transposition cipher which combined a polybius square (think vigenere cipher) and a single columnar transposition, resulting in the only possible values of the ciphertext being A, D, F, G, V, or X. 
+
+Initially considered to be unbreakable, the French cracking of the cipher in June 1918, and subsequent discovery of this by the Germans in the years following the war led to a desire for stronger cryptographic algorithms by the Germans. This eventually led to the creation of the Enigma machine.

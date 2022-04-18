@@ -1,0 +1,3 @@
+The Affine cipher is a fairly simple monoalphabetic substitution cipher. This cipher works by encoding a letter to its numeric equivelent (A is 0, B is 1, etc. all the way to Z is 25). A simple mathematical function is then usedd to "shift" the letter a certain number of places and that number is then decoded back into a letter. 
+
+While this cipher is fairly simple, it is a somewhat enjoyable thing to see in action and can be used as a means of simple encryption for "secure" communication.

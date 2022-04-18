@@ -1,0 +1,5 @@
+While the evidence suggests that cryptography has existed in some form since ~1900BC, the Greek use of Scytale is often attributed as being one of the first major uses of cryptography. The scytale was a tool used by the ancient Greeks to perform transposition ciphers.
+
+The use of Scytale involved wrapping a strip of parchment arould a wooden rod/cylinder in order to transpose a message. In order for this to work, the rods had to be cut to certain specs as not just any would do.
+
+This means of encryption is one of of the earliest known uses of cryptography, and proved an effective way of generating secure messages for Greek field commanders during military campaigns.

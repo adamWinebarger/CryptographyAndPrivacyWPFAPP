@@ -1,0 +1,5 @@
+The Enigma was a complex cryptographic machine invented by Scherbius & Ritter co. at the end of World War 1. This machine made use of a series of wires and rotors in order to encrypt military communications. It was the strongest cryptographic scheme of its time and largely thought to be unbreakable. 
+
+Given the value of battlefield information, the Enigma proved to be worth its weight in gold (funnily enough, it was quite a heavy machine). Though the early model enigma machines had been cracked by polish mathmatician Marian Rejewski in 1932, the later models had been seriously beefed up (making use of more rotors and more combinations per rotor) as the beginning of WWII approached. 
+
+While contributions from people like Rejewski and Alan Turing (the father of modern computing) and the Bletchely Park crew were essential for helping to decipher the Enigma code, the breaking of the code was ultimately achieved due to operator error on the side of the Germans, capturing of German key-tables, and a machine (or series of machines) that would be the precursor to the modern computer.

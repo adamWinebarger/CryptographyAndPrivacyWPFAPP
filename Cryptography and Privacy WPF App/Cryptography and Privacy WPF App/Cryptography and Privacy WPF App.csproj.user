@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ViewsNControllers\HistoryThings\EnigmaCoolFactsWindoow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\HistoryThings\MLKWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\HistoryThings\NapoleonWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\HistoryThings\BabbageWindwo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\HistoryThings\PlayfairCoolFactsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\AdvancedEncryption\HillCipherWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\ExtraThings\AESChatWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\AdvancedEncryption\ADFGVXWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\ExtrasWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\AdvancedEncryption\AESWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\AtbashWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\BigBlurbWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\CaesarCipherWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\ColumnarTranspositionWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\RailFenceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\HistoryAndFunFactsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\AffineCipherWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Learning Targets\AS\Learning Targets\AS1Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Learning Targets\CT\CTMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Learning Targets\EN\ENMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Learning Targets\AS\ASMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\AdvancedEncryptionMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\BasicEncryptionMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\LTOMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\SubMenus\BasicsMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewsNControllers\Basic Encryption\VigenerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ViewsNControllers\HistoryThings\EnigmaCoolFactsWindoow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\HistoryThings\MLKWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\HistoryThings\NapoleonWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\HistoryThings\BabbageWindwo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\HistoryThings\PlayfairCoolFactsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\AdvancedEncryption\HillCipherWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\ExtraThings\AESChatWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\AdvancedEncryption\ADFGVXWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\ExtrasWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\AdvancedEncryption\AESWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\AtbashWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\BigBlurbWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\CaesarCipherWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\ColumnarTranspositionWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\RailFenceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\HistoryAndFunFactsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\AffineCipherWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Learning Targets\AS\Learning Targets\AS1Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Learning Targets\CT\CTMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Learning Targets\EN\ENMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Learning Targets\AS\ASMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\AdvancedEncryptionMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\BasicEncryptionMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\LTOMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\SubMenus\BasicsMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewsNControllers\Basic Encryption\VigenerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

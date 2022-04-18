@@ -1,0 +1,1 @@
+The columnar transposition cipher is an encryption method that involves writing plaintext into a grid or table, then swapping columns of the table... There isn't really much to say about it beyond that.

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Cryptography_and_Privacy_WPF_App.HistoryAndFunFactsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cryptography_and_Privacy_WPF_App"
+        mc:Ignorable="d"
+        Title="HistoryAndFunFactsWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Some Interesting History on Encryption" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="EarlyCryptogrpaphyButton" Content="Sytale and Early Cryptography" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="EarlyCryptogrpaphyButton_Click"/>
+        <Button x:Name="playfairButton" Content="Playfair cipher shakes things up" HorizontalAlignment="Center" Margin="0,152,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="playfairButton_Click"/>
+        <Button x:Name="babbageButton" Content="Charles Babbage breaks the Vigenere Cipher" HorizontalAlignment="Center" Margin="0,204,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="babbageButton_Click"/>
+        <Button x:Name="napoleonicButton" Content="Napoleonic Wars and their ciphers" HorizontalAlignment="Center" Margin="0,268,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="napoleonicButton_Click"/>
+        <Button x:Name="mlkButton" Content="Martin Luter Kind Jr: Surprisingly relevent here" HorizontalAlignment="Center" Margin="0,323,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="mlkButton_Click"/>
+        <Button x:Name="enigmaButtton" Content="The Enigma Code" HorizontalAlignment="Center" Margin="0,374,0,0" VerticalAlignment="Top" Height="31" Width="457" Click="enigmaButtton_Click"/>
+
+    </Grid>
+</Window>

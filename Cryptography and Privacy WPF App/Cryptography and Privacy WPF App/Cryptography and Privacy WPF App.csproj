@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Cryptography_and_Privacy_WPF_App</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="3-Table2-1.png" />
+    <None Remove="babbage.jpg" />
+    <None Remove="enigma1.jpg" />
+    <None Remove="enigma2.png" />
+    <None Remove="Martin-Luther-King-Jr.jpg" />
+    <None Remove="napoleon2.jpg" />
+    <None Remove="playfair1.png" />
+    <None Remove="playfair2.png" />
+    <None Remove="Screenshot %281%29.png" />
+    <None Remove="ViewsNControllers\encryption1.png" />
+    <None Remove="ViewsNControllers\HistoryThings\napoleon2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\3-Table2-1.png" />
+    <Resource Include="Assets\Images\Martin-Luther-King-Jr.jpg" />
+    <Resource Include="Assets\Images\Screenshot %281%29.png" />
+    <Resource Include="babbage.jpg" />
+    <Resource Include="enigma1.jpg" />
+    <Resource Include="enigma2.png" />
+    <Resource Include="Martin-Luther-King-Jr.jpg" />
+    <Resource Include="napoleon2.jpg" />
+    <Resource Include="playfair1.png" />
+    <Resource Include="playfair2.png" />
+    <Resource Include="ViewsNControllers\encryption1.png" />
+    <Resource Include="ViewsNControllers\HistoryThings\napoleon2.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+While the exact origins of encryption are unknown, it is known that it originated in ancient Egypt. One of the more prominent beliefs on how it got its start was a desire to make religious ceremonies appear prominent, secret, and formal to the casual observer. 
+
+By the 5th century BC, encryption had become useful for a myriad of military applications. In the Greek province of Sparta, an encryption scheme known as Skytale had become very prominent in which a thin piece of papyrus was wrapped around a round staff. From there, the message would be unwrapped from the staff and unreadable to anyone without an identical staff. While simple by modern standards, this was quite a creative solution given the technology of the day.

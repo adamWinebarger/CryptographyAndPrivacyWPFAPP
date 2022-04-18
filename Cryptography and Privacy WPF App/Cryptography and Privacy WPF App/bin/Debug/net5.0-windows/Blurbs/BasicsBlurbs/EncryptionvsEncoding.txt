@@ -1,0 +1,5 @@
+Encoding is the process of representing data in a form that is convinient for people or computers to work with. In a sense, while the format of the data has been changed, the idea behind encoding is to make the data readable by both the sender and the reciever.
+
+By contrast, encryption is used to protect data from anyone aside from the desired parties. The goal of encryption is to turn data that everyone can read into data that can only be read by parties with a specific set of information (security key, certificate, etc.). By design, the message should appear as random nonsense to all other parties.
+
+Normally, these two things are used in conjunction as data normally needs to be encoded into a standard format before it can be encrypted (for example, many of the ciphers demonstrated in this program require letters to be converted to their ASCII values before the data can be encrypted). A lack of standard encoding can have unintended consequences when trying to encrypt/decrypt data. 
